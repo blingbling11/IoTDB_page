@@ -45,13 +45,13 @@ body{
     position: fixed;
     height:535px;
     width:100%;
-    background:#dedede;
+    background:#ffffff;
 }
 
 .main .sidebar-nav{
     position: fixed;
     top: 100;
-    width: 190px;
+    width:120px;
     height:100%;
     margin-top: 10;
     padding: 0;
